@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\FactoryMethodExample\bin\Debug\net10.0\FactoryMethodExample.exe
+A:\Deep-Skilling\Module-1\FactoryMethodExample\bin\Debug\net10.0\FactoryMethodExample.deps.json
+A:\Deep-Skilling\Module-1\FactoryMethodExample\bin\Debug\net10.0\FactoryMethodExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\FactoryMethodExample\bin\Debug\net10.0\FactoryMethodExample.dll
+A:\Deep-Skilling\Module-1\FactoryMethodExample\bin\Debug\net10.0\FactoryMethodExample.pdb
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.sourcelink.json
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.dll
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\refint\FactoryMethodExample.dll
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.pdb
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\FactoryMethodExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\FactoryMethodExample\obj\Debug\net10.0\ref\FactoryMethodExample.dll
