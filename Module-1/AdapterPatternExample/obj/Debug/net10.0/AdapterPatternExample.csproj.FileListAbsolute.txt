@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.exe
+A:\Deep-Skilling\Module-1\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.deps.json
+A:\Deep-Skilling\Module-1\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.dll
+A:\Deep-Skilling\Module-1\AdapterPatternExample\bin\Debug\net10.0\AdapterPatternExample.pdb
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.dll
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\refint\AdapterPatternExample.dll
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.pdb
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\AdapterPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\AdapterPatternExample\obj\Debug\net10.0\ref\AdapterPatternExample.dll
