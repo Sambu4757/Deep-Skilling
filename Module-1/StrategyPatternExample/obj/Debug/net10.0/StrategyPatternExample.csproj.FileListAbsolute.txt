@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.exe
+A:\Deep-Skilling\Module-1\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.deps.json
+A:\Deep-Skilling\Module-1\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.dll
+A:\Deep-Skilling\Module-1\StrategyPatternExample\bin\Debug\net10.0\StrategyPatternExample.pdb
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.dll
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\refint\StrategyPatternExample.dll
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.pdb
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\StrategyPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\StrategyPatternExample\obj\Debug\net10.0\ref\StrategyPatternExample.dll
