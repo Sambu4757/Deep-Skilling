@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.exe
+A:\Deep-Skilling\Module-1\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.deps.json
+A:\Deep-Skilling\Module-1\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.dll
+A:\Deep-Skilling\Module-1\BuilderPatternExample\bin\Debug\net10.0\BuilderPatternExample.pdb
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.dll
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\refint\BuilderPatternExample.dll
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.pdb
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\BuilderPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\BuilderPatternExample\obj\Debug\net10.0\ref\BuilderPatternExample.dll
