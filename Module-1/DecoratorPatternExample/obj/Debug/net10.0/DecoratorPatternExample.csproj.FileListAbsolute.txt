@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\bin\Debug\net10.0\DecoratorPatternExample.exe
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\bin\Debug\net10.0\DecoratorPatternExample.deps.json
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\bin\Debug\net10.0\DecoratorPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\bin\Debug\net10.0\DecoratorPatternExample.dll
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\bin\Debug\net10.0\DecoratorPatternExample.pdb
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.dll
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\refint\DecoratorPatternExample.dll
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.pdb
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\DecoratorPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\DecoratorPatternExample\obj\Debug\net10.0\ref\DecoratorPatternExample.dll
