@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.exe
+A:\Deep-Skilling\Module-1\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.deps.json
+A:\Deep-Skilling\Module-1\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.dll
+A:\Deep-Skilling\Module-1\SingletonPatternExample\bin\Debug\net10.0\SingletonPatternExample.pdb
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.dll
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\refint\SingletonPatternExample.dll
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.pdb
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\SingletonPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\SingletonPatternExample\obj\Debug\net10.0\ref\SingletonPatternExample.dll
