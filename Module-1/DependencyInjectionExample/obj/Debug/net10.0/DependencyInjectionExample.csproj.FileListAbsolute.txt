@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\bin\Debug\net10.0\DependencyInjectionExample.exe
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\bin\Debug\net10.0\DependencyInjectionExample.deps.json
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\bin\Debug\net10.0\DependencyInjectionExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\bin\Debug\net10.0\DependencyInjectionExample.dll
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\bin\Debug\net10.0\DependencyInjectionExample.pdb
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.sourcelink.json
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.dll
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\refint\DependencyInjectionExample.dll
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.pdb
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\DependencyInjectionExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\DependencyInjectionExample\obj\Debug\net10.0\ref\DependencyInjectionExample.dll
