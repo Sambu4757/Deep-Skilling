@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.exe
+A:\Deep-Skilling\Module-1\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.deps.json
+A:\Deep-Skilling\Module-1\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.dll
+A:\Deep-Skilling\Module-1\MVCPatternExample\bin\Debug\net10.0\MVCPatternExample.pdb
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.dll
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\refint\MVCPatternExample.dll
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.pdb
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\MVCPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\MVCPatternExample\obj\Debug\net10.0\ref\MVCPatternExample.dll
