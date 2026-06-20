@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-1\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.exe
+A:\Deep-Skilling\Module-1\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.deps.json
+A:\Deep-Skilling\Module-1\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.runtimeconfig.json
+A:\Deep-Skilling\Module-1\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.dll
+A:\Deep-Skilling\Module-1\ProxyPatternExample\bin\Debug\net10.0\ProxyPatternExample.pdb
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.sourcelink.json
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.dll
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\refint\ProxyPatternExample.dll
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.pdb
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ProxyPatternExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-1\ProxyPatternExample\obj\Debug\net10.0\ref\ProxyPatternExample.dll
