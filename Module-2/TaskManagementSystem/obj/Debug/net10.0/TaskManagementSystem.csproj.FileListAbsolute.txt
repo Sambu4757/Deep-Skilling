@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-2\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.exe
+A:\Deep-Skilling\Module-2\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.deps.json
+A:\Deep-Skilling\Module-2\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.runtimeconfig.json
+A:\Deep-Skilling\Module-2\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.dll
+A:\Deep-Skilling\Module-2\TaskManagementSystem\bin\Debug\net10.0\TaskManagementSystem.pdb
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.AssemblyInfo.cs
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.sourcelink.json
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.dll
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\refint\TaskManagementSystem.dll
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.pdb
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\TaskManagementSystem.genruntimeconfig.cache
+A:\Deep-Skilling\Module-2\TaskManagementSystem\obj\Debug\net10.0\ref\TaskManagementSystem.dll

@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.exe
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.deps.json
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.runtimeconfig.json
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.dll
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\bin\Debug\net10.0\SortingCustomerOrders.pdb
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.AssemblyInfo.cs
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.sourcelink.json
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.dll
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\refint\SortingCustomerOrders.dll
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.pdb
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\SortingCustomerOrders.genruntimeconfig.cache
+A:\Deep-Skilling\Module-2\SortingCustomerOrders\obj\Debug\net10.0\ref\SortingCustomerOrders.dll

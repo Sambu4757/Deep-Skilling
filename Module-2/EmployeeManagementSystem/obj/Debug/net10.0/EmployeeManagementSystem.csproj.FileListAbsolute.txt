@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.exe
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.deps.json
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.runtimeconfig.json
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.dll
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.pdb
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfo.cs
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.sourcelink.json
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.dll
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\refint\EmployeeManagementSystem.dll
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.pdb
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.genruntimeconfig.cache
+A:\Deep-Skilling\Module-2\EmployeeManagementSystem\obj\Debug\net10.0\ref\EmployeeManagementSystem.dll

@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.exe
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.deps.json
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.runtimeconfig.json
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.dll
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\bin\Debug\net10.0\InventoryManagementSystem.pdb
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.AssemblyInfo.cs
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.sourcelink.json
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.dll
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\refint\InventoryManagementSystem.dll
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.pdb
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\InventoryManagementSystem.genruntimeconfig.cache
+A:\Deep-Skilling\Module-2\InventoryManagementSystem\obj\Debug\net10.0\ref\InventoryManagementSystem.dll

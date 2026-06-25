@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\bin\Debug\net10.0\ECommerceSearchExample.exe
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\bin\Debug\net10.0\ECommerceSearchExample.deps.json
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\bin\Debug\net10.0\ECommerceSearchExample.runtimeconfig.json
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\bin\Debug\net10.0\ECommerceSearchExample.dll
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\bin\Debug\net10.0\ECommerceSearchExample.pdb
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.AssemblyInfo.cs
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.sourcelink.json
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.dll
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\refint\ECommerceSearchExample.dll
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.pdb
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ECommerceSearchExample.genruntimeconfig.cache
+A:\Deep-Skilling\Module-2\ECommerceSearchExample\obj\Debug\net10.0\ref\ECommerceSearchExample.dll
