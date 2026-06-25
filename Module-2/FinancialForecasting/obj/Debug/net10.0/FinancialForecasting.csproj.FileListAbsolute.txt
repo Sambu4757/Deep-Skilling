@@ -1,0 +1,15 @@
+A:\Deep-Skilling\Module-2\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.exe
+A:\Deep-Skilling\Module-2\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.deps.json
+A:\Deep-Skilling\Module-2\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.runtimeconfig.json
+A:\Deep-Skilling\Module-2\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.dll
+A:\Deep-Skilling\Module-2\FinancialForecasting\bin\Debug\net10.0\FinancialForecasting.pdb
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfoInputs.cache
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.AssemblyInfo.cs
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.csproj.CoreCompileInputs.cache
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.sourcelink.json
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.dll
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\refint\FinancialForecasting.dll
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.pdb
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\FinancialForecasting.genruntimeconfig.cache
+A:\Deep-Skilling\Module-2\FinancialForecasting\obj\Debug\net10.0\ref\FinancialForecasting.dll
