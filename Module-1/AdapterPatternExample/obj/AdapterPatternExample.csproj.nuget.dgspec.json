@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj": {}
   },
   "projects": {
-    "a:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj",
         "projectName": "AdapterPatternExample",
-        "projectPath": "a:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\AdapterPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "a:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Module-1\\AdapterPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config"

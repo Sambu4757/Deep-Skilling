@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj": {}
   },
   "projects": {
-    "a:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj",
         "projectName": "ObserverPatternExample",
-        "projectPath": "a:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\ObserverPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "a:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Module-1\\ObserverPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config"

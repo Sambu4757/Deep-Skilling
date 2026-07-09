@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj": {}
   },
   "projects": {
-    "a:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj",
         "projectName": "CommandPatternExample",
-        "projectPath": "a:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Module-1\\CommandPatternExample\\CommandPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "a:\\Deep-Skilling\\Module-1\\CommandPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Module-1\\CommandPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config"
