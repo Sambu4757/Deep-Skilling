@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Module-2\\FinancialForecasting\\FinancialForecasting.csproj": {}
+    "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Module-2\\FinancialForecasting\\FinancialForecasting.csproj": {
+    "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Module-2\\FinancialForecasting\\FinancialForecasting.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
         "projectName": "FinancialForecasting",
-        "projectPath": "A:\\Deep-Skilling\\Module-2\\FinancialForecasting\\FinancialForecasting.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Module-2\\FinancialForecasting\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

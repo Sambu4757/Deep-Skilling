@@ -4072,11 +4072,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Deep-Skilling\\Module-5\\LAB_1\\RetailInventory\\RetailInventory.csproj",
+      "projectUniqueName": "A:\\Deep-Skilling\\EF Core 8.0 HOL\\LAB_1\\RetailInventory\\RetailInventory.csproj",
       "projectName": "RetailInventory",
-      "projectPath": "A:\\Deep-Skilling\\Module-5\\LAB_1\\RetailInventory\\RetailInventory.csproj",
+      "projectPath": "A:\\Deep-Skilling\\EF Core 8.0 HOL\\LAB_1\\RetailInventory\\RetailInventory.csproj",
       "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-      "outputPath": "A:\\Deep-Skilling\\Module-5\\LAB_1\\RetailInventory\\obj\\",
+      "outputPath": "A:\\Deep-Skilling\\EF Core 8.0 HOL\\LAB_1\\RetailInventory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

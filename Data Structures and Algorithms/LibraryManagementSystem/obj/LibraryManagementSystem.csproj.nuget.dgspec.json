@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "a:\\Deep-Skilling\\Module-2\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "a:\\Deep-Skilling\\Module-2\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\Deep-Skilling\\Module-2\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "a:\\Deep-Skilling\\Module-2\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "a:\\Deep-Skilling\\Module-2\\LibraryManagementSystem\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

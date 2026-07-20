@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+5UV2dUekp0=",
+  "dgSpecHash": "csM48+Bt3SY=",
   "success": true,
-  "projectFilePath": "A:\\Deep-Skilling\\Module-5\\LAB_5\\RetailInventory\\RetailInventory.csproj",
+  "projectFilePath": "A:\\Deep-Skilling\\EF Core 8.0 HOL\\LAB_5\\RetailInventory\\RetailInventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\siva1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\siva1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
