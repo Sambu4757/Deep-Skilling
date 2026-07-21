@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj",
         "projectName": "StrategyPatternExample",
-        "projectPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\StrategyPatternExample\\StrategyPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\StrategyPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\StrategyPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -337,9 +337,4 @@
             "System.Xml.XmlSerializer": "(,4.3.32767]",
             "System.Xml.XPath": "(,4.3.32767]",
             "System.Xml.XPath.XDocument": "(,5.0.32767]"
-          }
-        }
-      }
-    }
-  }
-}
+      
