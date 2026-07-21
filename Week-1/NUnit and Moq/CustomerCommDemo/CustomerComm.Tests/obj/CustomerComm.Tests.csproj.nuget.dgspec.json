@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
         "projectName": "CustomerComm.Tests",
-        "projectPath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
             "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {
-              "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj": {
-                "projectPath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj"
+              "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj": {
+                "projectPath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj",
         "projectName": "CustomerCommLib",
-        "projectPath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

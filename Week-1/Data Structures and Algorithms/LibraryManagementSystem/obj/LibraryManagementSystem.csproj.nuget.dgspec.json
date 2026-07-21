@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "projectName": "LibraryManagementSystem",
-        "projectPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\LibraryManagementSystem\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\LibraryManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

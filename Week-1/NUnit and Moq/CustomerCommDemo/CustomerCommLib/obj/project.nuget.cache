@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FbKAg9JH7Ec=",
+  "dgSpecHash": "G/SHoTVop2g=",
   "success": true,
-  "projectFilePath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj",
+  "projectFilePath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerCommLib\\CustomerCommLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\siva1\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
     "C:\\Users\\siva1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",

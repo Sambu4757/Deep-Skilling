@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZfaGbbwDKhA=",
+  "dgSpecHash": "CJpzu7GQvJQ=",
   "success": true,
-  "projectFilePath": "A:\\Deep-Skilling\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
+  "projectFilePath": "A:\\Deep-Skilling\\Week-1\\NUnit and Moq\\CustomerCommDemo\\CustomerComm.Tests\\CustomerComm.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\siva1\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\siva1\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

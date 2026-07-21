@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+      "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
       "projectName": "FinancialForecasting",
-      "projectPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
+      "projectPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\FinancialForecasting\\FinancialForecasting.csproj",
       "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-      "outputPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\FinancialForecasting\\obj\\",
+      "outputPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\FinancialForecasting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

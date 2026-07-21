@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Deep-Skilling\\Data Structures and Algorithms\\SortingCustomerOrders\\SortingCustomerOrders.csproj",
+      "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\SortingCustomerOrders\\SortingCustomerOrders.csproj",
       "projectName": "SortingCustomerOrders",
-      "projectPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\SortingCustomerOrders\\SortingCustomerOrders.csproj",
+      "projectPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\SortingCustomerOrders\\SortingCustomerOrders.csproj",
       "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-      "outputPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\SortingCustomerOrders\\obj\\",
+      "outputPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\SortingCustomerOrders\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

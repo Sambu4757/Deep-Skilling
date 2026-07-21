@@ -760,11 +760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Deep-Skilling\\JWT Authentication in ASP.NET Core Web API\\Question_1\\JwtAuthDemo\\JwtAuthDemo.csproj",
+      "projectUniqueName": "A:\\Deep-Skilling\\Week-4\\JWT Authentication in ASP.NET Core Web API\\Question_1\\JwtAuthDemo\\JwtAuthDemo.csproj",
       "projectName": "JwtAuthDemo",
-      "projectPath": "A:\\Deep-Skilling\\JWT Authentication in ASP.NET Core Web API\\Question_1\\JwtAuthDemo\\JwtAuthDemo.csproj",
+      "projectPath": "A:\\Deep-Skilling\\Week-4\\JWT Authentication in ASP.NET Core Web API\\Question_1\\JwtAuthDemo\\JwtAuthDemo.csproj",
       "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-      "outputPath": "A:\\Deep-Skilling\\JWT Authentication in ASP.NET Core Web API\\Question_1\\JwtAuthDemo\\obj\\",
+      "outputPath": "A:\\Deep-Skilling\\Week-4\\JWT Authentication in ASP.NET Core Web API\\Question_1\\JwtAuthDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

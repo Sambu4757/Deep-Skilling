@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj",
         "projectName": "SingletonPatternExample",
-        "projectPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\SingletonPatternExample\\SingletonPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\SingletonPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\SingletonPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

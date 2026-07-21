@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj",
         "projectName": "TaskManagementSystem",
-        "projectPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\TaskManagementSystem\\TaskManagementSystem.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Data Structures and Algorithms\\TaskManagementSystem\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\Data Structures and Algorithms\\TaskManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

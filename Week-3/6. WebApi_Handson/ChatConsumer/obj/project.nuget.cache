@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqS6gOJ6VbA=",
+  "success": true,
+  "projectFilePath": "A:\\Deep-Skilling\\Week-3\\6. WebApi_Handson\\ChatConsumer\\ChatConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\siva1\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\siva1\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\siva1\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\siva1\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\siva1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\siva1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\siva1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj",
         "projectName": "BuilderPatternExample",
-        "projectPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\BuilderPatternExample\\BuilderPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\BuilderPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\BuilderPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

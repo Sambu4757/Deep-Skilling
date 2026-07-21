@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj": {}
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj": {}
   },
   "projects": {
-    "A:\\Deep-Skilling\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj": {
+    "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Deep-Skilling\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj",
+        "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj",
         "projectName": "AdapterPatternExample",
-        "projectPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj",
+        "projectPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\AdapterPatternExample\\AdapterPatternExample.csproj",
         "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-        "outputPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\AdapterPatternExample\\obj\\",
+        "outputPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\AdapterPatternExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Deep-Skilling\\Design Patterns and Principles\\ProxyPatternExample\\ProxyPatternExample.csproj",
+      "projectUniqueName": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\ProxyPatternExample\\ProxyPatternExample.csproj",
       "projectName": "ProxyPatternExample",
-      "projectPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\ProxyPatternExample\\ProxyPatternExample.csproj",
+      "projectPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\ProxyPatternExample\\ProxyPatternExample.csproj",
       "packagesPath": "C:\\Users\\siva1\\.nuget\\packages\\",
-      "outputPath": "A:\\Deep-Skilling\\Design Patterns and Principles\\ProxyPatternExample\\obj\\",
+      "outputPath": "A:\\Deep-Skilling\\Week-1\\Design Patterns and Principles\\ProxyPatternExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\siva1\\AppData\\Roaming\\NuGet\\NuGet.Config",
