@@ -1,0 +1,183 @@
+/* Course Card */
+
+.card{
+
+    background:#ffffff;
+
+    border-radius:12px;
+
+    padding:20px;
+
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+
+    transition:0.3s;
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:10px;
+
+    min-height:280px;
+
+}
+
+/* Hover */
+
+.card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 8px 18px rgba(0,0,0,0.2);
+
+}
+
+/* Heading */
+
+.card h3{
+
+    color:#1565c0;
+
+    text-align:center;
+
+    margin-bottom:10px;
+
+}
+
+/* Paragraph */
+
+.card p{
+
+    margin:2px 0;
+
+    font-size:16px;
+
+}
+
+/* Passed */
+
+.passed{
+
+    background:#4CAF50;
+
+    color:white;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    width:fit-content;
+
+}
+
+/* Failed */
+
+.failed{
+
+    background:#F44336;
+
+    color:white;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    width:fit-content;
+
+}
+
+/* Pending */
+
+.pending{
+
+    background:#757575;
+
+    color:white;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    width:fit-content;
+
+}
+
+/* Enroll Button */
+
+button{
+
+    padding:10px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#1565c0;
+
+    color:white;
+
+    cursor:pointer;
+
+    font-size:16px;
+
+    transition:.3s;
+
+}
+
+button:hover{
+
+    background:#0d47a1;
+
+}
+
+/* Show Details Button */
+
+.details-btn{
+
+    background:#6c757d;
+
+}
+
+.details-btn:hover{
+
+    background:#495057;
+
+}
+
+/* Details */
+
+.details{
+
+    margin-top:10px;
+
+    padding:12px;
+
+    border-top:1px solid #ddd;
+
+    background:#f9f9f9;
+
+    border-radius:8px;
+
+}
+
+/* ngClass */
+
+.card--enrolled{
+
+    background:#e8f5e9;
+
+}
+
+.card--full{
+
+    border:2px solid #ff9800;
+
+}
+
+/* Expanded */
+
+.expanded{
+
+    min-height:420px;
+
+}

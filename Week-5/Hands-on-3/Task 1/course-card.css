@@ -1,0 +1,141 @@
+.card{
+
+    background:#ffffff;
+
+    border-radius:12px;
+
+    padding:20px;
+
+    box-shadow:0 4px 10px rgba(0,0,0,0.15);
+
+    transition:0.3s;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:space-between;
+
+    min-height:250px;
+
+}
+
+.card:hover{
+
+    transform:translateY(-5px);
+
+    box-shadow:0 8px 18px rgba(0,0,0,0.2);
+
+}
+
+.card h3{
+
+    color:#1565c0;
+
+    text-align:center;
+
+    margin-bottom:15px;
+
+}
+
+.card p{
+
+    margin:6px 0;
+
+    font-size:16px;
+
+}
+
+/* Status Badges */
+
+.passed{
+
+    display:inline-block;
+
+    background:#4CAF50;
+
+    color:white;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    font-weight:bold;
+
+    margin:12px auto;
+
+    text-align:center;
+
+}
+
+.failed{
+
+    display:inline-block;
+
+    background:#F44336;
+
+    color:white;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    font-weight:bold;
+
+    margin:12px auto;
+
+    text-align:center;
+
+}
+
+.pending{
+
+    display:inline-block;
+
+    background:#757575;
+
+    color:white;
+
+    padding:6px 12px;
+
+    border-radius:20px;
+
+    font-weight:bold;
+
+    margin:12px auto;
+
+    text-align:center;
+
+}
+
+/* Button */
+
+button{
+
+    margin-top:20px;
+
+    width:100%;
+
+    padding:10px;
+
+    border:none;
+
+    border-radius:8px;
+
+    background:#1565c0;
+
+    color:white;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:0.3s;
+
+}
+
+button:hover{
+
+    background:#0d47a1;
+
+}

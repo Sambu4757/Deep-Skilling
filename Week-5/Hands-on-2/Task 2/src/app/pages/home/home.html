@@ -1,0 +1,28 @@
+<div class="container">
+  <h1>{{ portalName }}</h1>
+
+  <button
+    [disabled]="!isPortalActive"
+    (click)="onEnrollClick()">
+    Enroll Now
+  </button>
+
+  <p class="message">{{ message }}</p>
+
+  <input
+    type="text"
+    [(ngModel)]="searchTerm"
+    placeholder="Search Course">
+
+  <p>Searching for: {{ searchTerm }}</p>
+
+  <!--
+  [property] is one-way binding (Component → DOM)
+
+  [(ngModel)] is two-way binding (DOM ↔ Component)
+  -->
+</div>
+
+<div class="course-box">
+  Available Courses: {{ availableCourses }}
+</div>

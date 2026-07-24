@@ -1,0 +1,22 @@
+<h2>Course List</h2>
+
+<div class="course-grid">
+
+  @for (c of courses; track c.id) {
+
+    <app-course-card
+      [course]="c"
+      (enrollRequested)="onEnroll($event)">
+    </app-course-card>
+
+  }
+
+</div>
+
+@if (selectedCourseId) {
+
+<p class="selected-course">
+  Selected Course ID: <strong>{{ selectedCourseId }}</strong>
+</p>
+
+}

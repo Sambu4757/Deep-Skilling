@@ -1,0 +1,95 @@
+/* Page Heading */
+
+h2{
+    text-align:center;
+    color:#1565c0;
+    margin:25px 0;
+    font-size:32px;
+}
+
+/* Loading Message */
+
+.loading{
+    text-align:center;
+    font-size:22px;
+    color:#1565c0;
+    font-weight:bold;
+    margin-top:40px;
+}
+
+/* No Courses */
+
+.no-course{
+    text-align:center;
+    font-size:22px;
+    color:red;
+    font-weight:bold;
+    margin-top:40px;
+}
+
+/* Course Grid */
+
+.course-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:25px;
+
+    padding:20px;
+
+}
+
+/* Selected Course */
+
+.selected-course{
+
+    width:350px;
+
+    margin:30px auto;
+
+    background:#e8f5e9;
+
+    border:2px solid #4caf50;
+
+    border-radius:10px;
+
+    text-align:center;
+
+    padding:15px;
+
+    color:#2e7d32;
+
+}
+
+/* Tablet */
+
+@media(max-width:992px){
+
+.course-grid{
+
+grid-template-columns:repeat(2,1fr);
+
+}
+
+}
+
+/* Mobile */
+
+@media(max-width:600px){
+
+.course-grid{
+
+grid-template-columns:1fr;
+
+}
+
+.loading,
+.no-course{
+
+font-size:18px;
+
+}
+
+}
